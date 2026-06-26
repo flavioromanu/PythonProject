@@ -1,3 +1,4 @@
+[proposta_project_cleaner_gui.pdf](https://github.com/user-attachments/files/29380706/proposta_project_cleaner_gui.pdf)
 # Proposta di progetto
 
 > Una pagina, da far approvare al docente **prima** di scrivere codice. Una volta
