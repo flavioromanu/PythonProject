@@ -6,7 +6,7 @@
 
 ## Titolo provvisorio
 
-<Trasheet: Comegna Edition>
+Trasheet: Comegna Edition
 
 ## Gruppo
 
